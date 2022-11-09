@@ -5,7 +5,7 @@ import '../../App.css'
 const Navbar = () => {
   return (
     <nav className="navbar navbar-expand-lg navbar-light bg-light mb-4">
-        <Link to="https://emoon002.github.io/rickmortywiki" className="fs-1 fw-bold ubuntu navbar-brand p-3">Rick & Morty <span className="text-primary">Wiki</span></Link>
+        <Link to="/rickmortywiki" className="fs-1 fw-bold ubuntu navbar-brand p-3">Rick & Morty <span className="text-primary">Wiki</span></Link>
         <button className="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
         <style jsx>
           {`
