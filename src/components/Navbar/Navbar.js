@@ -23,7 +23,7 @@ const Navbar = () => {
         </button>
         <div className="collapse navbar-collapse justify-content-end" id="navbarNavAltMarkup">
         <div className="navbar-nav fs-5 p-3">
-            <NavLink activeClassName="active" to="/" className="nav-link">Characters</NavLink>
+            <NavLink activeClassName="active" to="/rickmortywiki" className="nav-link">Characters</NavLink>
             <NavLink to="/episodes" className="nav-link">Episodes</NavLink>
             <NavLink to="/locations" className="nav-link">Locations</NavLink>
         </div>
