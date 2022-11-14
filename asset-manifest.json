@@ -1,15 +1,13 @@
 {
   "files": {
     "main.css": "/rickmortywiki/static/css/main.ff5eb81a.css",
-    "main.js": "/rickmortywiki/static/js/main.b9cbd94d.js",
-    "static/js/787.43944257.chunk.js": "/rickmortywiki/static/js/787.43944257.chunk.js",
+    "main.js": "/rickmortywiki/static/js/main.ff5a723a.js",
     "index.html": "/rickmortywiki/index.html",
     "main.ff5eb81a.css.map": "/rickmortywiki/static/css/main.ff5eb81a.css.map",
-    "main.b9cbd94d.js.map": "/rickmortywiki/static/js/main.b9cbd94d.js.map",
-    "787.43944257.chunk.js.map": "/rickmortywiki/static/js/787.43944257.chunk.js.map"
+    "main.ff5a723a.js.map": "/rickmortywiki/static/js/main.ff5a723a.js.map"
   },
   "entrypoints": [
     "static/css/main.ff5eb81a.css",
-    "static/js/main.b9cbd94d.js"
+    "static/js/main.ff5a723a.js"
   ]
 }
